@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    JasnTaylor	jason@git.training 	@awesonejt
 
 # THANKS
 
