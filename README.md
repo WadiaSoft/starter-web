@@ -8,7 +8,7 @@ Updating for emergency fix after stashing.
 
 This is an example to show different parts
 of the Git repository and various commands
-using a web project.
+using a web project. Adding a line for rebasing example.
 
 ## Purpose
 
