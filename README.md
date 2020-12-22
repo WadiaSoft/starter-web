@@ -8,7 +8,8 @@ Updating for emergency fix after stashing.
 
 This is an example to show different parts
 of the Git repository and various commands
-using a web project. Adding a line for rebasing example.
+using a web project. Adding a line for rebasing example, then
+more changes from myfeature branch too.
 
 ## Purpose
 
