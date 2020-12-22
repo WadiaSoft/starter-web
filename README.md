@@ -30,4 +30,4 @@ review. They will be reviewed
 
 ### Copyright 2020
 
-2017 Git.Training. All rights reserved.
+2017 Git.Training. Every single right reserved.
