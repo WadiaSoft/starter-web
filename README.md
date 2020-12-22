@@ -12,7 +12,7 @@ using a web project. Adding a line for rebasing example, then
 more changes from myfeature branch too.
 
 ## Purpose
-
+Updating for emergengy fix after stashing.
 As stated above, the main purpose is to
 provide simple examples for Git training
 demos.
