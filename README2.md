@@ -23,6 +23,7 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+Please for this repository and then issue Pull Requests
 
 ### Copyright
 
